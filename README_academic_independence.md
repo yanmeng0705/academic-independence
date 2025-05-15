@@ -87,4 +87,4 @@ This script will:
 
 We encourage you to include instructions for reproducing **all the quantitative results** in the manuscript.
 
-For any issues or questions, please contact: [your_email@domain.edu]
+For any issues or questions, please contact: [xinym@sustech.edu.cn]
