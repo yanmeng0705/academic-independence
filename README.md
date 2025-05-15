@@ -13,10 +13,9 @@ This repository accompanies the paper:
 - scikit-learn >= 1.0  
 - statsmodels >= 0.13  
 - matplotlib >= 3.5  
-- Compatible OS: Ubuntu 20.04+, macOS Monterey, Windows 10+
+- Compatible OS: macOS Monterey, Windows 10+
 
-✅ **Versions the software has been tested on**  
-- Ubuntu 22.04 LTS  
+✅ **Versions the software has been tested on**   
 - macOS Ventura 13.0  
 - Windows 11
 
@@ -27,12 +26,6 @@ This repository accompanies the paper:
 
 ✅ **Instructions**  
 Clone the repository and install dependencies via `pip`:
-
-```bash
-git clone https://github.com/yourusername/academic-independence.git
-cd academic-independence
-pip install -r requirements.txt
-```
 
 ✅ **Typical install time on a "normal" desktop computer**  
 Installation typically completes in under 2 minutes with a stable internet connection.
@@ -74,9 +67,6 @@ mentee_id, mentor_id, year, mentee_publications, mentor_publications, coauthorsh
 ✅ **(OPTIONAL) Reproduction instructions**  
 To reproduce all quantitative results in the manuscript:
 
-```bash
-bash reproduce_all.sh
-```
 
 This script will:
 - Run all key analysis modules  
@@ -84,7 +74,5 @@ This script will:
 - Export a summary of statistical models and results
 
 ---
-
-We encourage you to include instructions for reproducing **all the quantitative results** in the manuscript.
 
 For any issues or questions, please contact: [xinym@sustech.edu.cn]
