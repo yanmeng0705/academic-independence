@@ -12,7 +12,9 @@ This repository accompanies the paper:
 - networkx >= 2.6  
 - scikit-learn >= 1.0  
 - statsmodels >= 0.13  
-- matplotlib >= 3.5  
+- matplotlib >= 3.5
+- Requests >= 2.25
+- BeautifulSoup4 >= 4.1
 - Compatible OS: macOS Monterey, Windows 10+
 
 ✅ **Versions the software has been tested on**   
