@@ -37,9 +37,7 @@ Installation typically completes in under 2 minutes with a stable internet conne
 ✅ **Instructions to run on data**  
 To reproduce the main figures and results:
 
-```bash
-python run_analysis.py --input data/processed_pairs.csv --output results/
-```
+To begin, load the input dataset located in the ‘demo dataset’ folder. Then, sequentially execute each Jupyter notebook in the ‘code’ folder.
 
 ✅ **Expected output**  
 - `results/` will include:
@@ -57,9 +55,8 @@ python run_analysis.py --input data/processed_pairs.csv --output results/
 ✅ **How to run the software on your data**  
 To apply the pipeline to your own mentor-mentee data:
 
-```bash
-python run_analysis.py --input your_data.csv --output your_results/
-```
+--input your_data.csv --sequentially execute each Jupyter notebook in the ‘code’ folder --output your_results/
+
 
 Ensure your data follows the expected schema:
 ```csv
