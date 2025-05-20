@@ -37,12 +37,12 @@ Installation typically completes in under 2 minutes with a stable internet conne
 ✅ **Instructions to run on data**  
 To reproduce the main figures and results:
 
-To begin, load the input dataset located in the ‘demo dataset’ folder. Then, sequentially execute each Jupyter notebook in the ‘code’ folder.
+To begin, load the input dataset described in the ‘demo dataset’ folder. Then, sequentially execute each Jupyter notebook in the ‘code’ folder.
 
 ✅ **Expected output**  
 - `results/` will include:
-  - Divergence metrics over time  
-  - Topic evolution plots  
+  - impact metrics over time  
+  - community dectection results  
   - Co-authorship network metrics  
   - Reproduction of key figures from the manuscript
 
@@ -55,7 +55,7 @@ To begin, load the input dataset located in the ‘demo dataset’ folder. Then,
 ✅ **How to run the software on your data**  
 To apply the pipeline to your own mentor-mentee data:
 
---input your_data.csv --sequentially execute each Jupyter notebook in the ‘code’ folder --output your_results/
+--input your_data.csv --sequentially adjust and execute each Jupyter notebook in the ‘code’ folder --output your_results/
 
 
 Ensure your data follows the expected schema:
