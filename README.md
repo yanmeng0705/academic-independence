@@ -75,4 +75,4 @@ This script will:
 ---
 Please note that, at this stage, we are only providing the demo code and dataset necessary to reproduce the main results and figures related to the analysis in Chemistry presented in the manuscript. The full code and dataset will be made publicly available upon publication.
 
-For any issues or questions, please contact: [xinym@sustech.edu.cn]
+For any issues or questions, please contact: [yanmeng0608@outlook.com]
