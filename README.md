@@ -1,7 +1,7 @@
-# README: Quantifying Academic Independence and the Association with Career Success
+# README: The Independence Paradox in Scientific Careers
 
 This repository accompanies the paper:  
-**"Quantifying academic independence and the association with career success"**
+**"The independence paradox in scientific careers"**
 
 ## 1. System Requirements
 
